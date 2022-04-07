@@ -1,0 +1,43 @@
+#no-of-people-input-container {
+    background-color: hsl(189, 41%, 97%);
+    height: 40px;
+    border-radius: 5px;
+    position: relative;    
+}
+
+
+#no-of-people-input-container span{
+    width: 20px;
+    height: 100%;
+    background: none no-repeat center; 
+    position: absolute;
+    margin-left: 15px;
+}
+
+
+#no-of-people-input-container input {
+    background-color: inherit;
+    border: none;
+    justify-self: flex-end;
+    color: hsl(183, 100%, 15%);
+    font-size: 2em;
+    font-weight: 700;
+    font-family: CustomizedFont;
+    text-align: end;
+    padding-right:15px;
+    width: 100%;
+    border-radius: 5;
+    box-sizing: border-box;
+    height: 100%;
+}
+
+#no-of-people-input-container input:focus {
+    outline: none;
+    border: hsl(172, 67%, 45%) solid 2px;
+    border-radius: 3px;
+    
+}
+
+
+
+

@@ -1,0 +1,27 @@
+#amount-node-container {
+    display:grid;
+    width: 100%;
+    display:  grid;
+    grid-template-columns: auto auto;
+    grid-template-rows:  auto auto auto;
+    grid-row-gap: 10px;
+}
+
+#amount-node-container h3 {
+    color: hsl(0, 0%, 100%);
+    margin: 0;
+}
+
+#amount-node-container h1 {
+    color:hsl(172, 67%, 45%);
+    margin: 0;
+}
+
+#amount-node-container p {
+    margin: 0;
+    color:hsl(185, 41%, 84%);
+}
+
+#amount-node-container #amount {
+    justify-self: flex-end;
+}

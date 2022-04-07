@@ -1,0 +1,42 @@
+#bill-input-container {
+    background-color: hsl(189, 41%, 97%);
+    height: 40px;
+    position: relative;    
+}
+
+
+#bill-input-container span{
+    width: 20px;
+    height: 100%;
+    background: none no-repeat center; 
+    position: absolute;
+    margin-left: 15px;
+}
+
+
+#bill-input-container input {
+    background-color: inherit;
+    border: none;
+    justify-self: flex-end;
+    color: hsl(183, 100%, 15%);
+    font-size: 2em;
+    font-weight: 700;
+    font-family: CustomizedFont;
+    text-align: end;
+    padding-right:15px;
+    width: 100%;
+    border-radius: 5px;
+    box-sizing: border-box;
+    height: 100%;
+}
+
+#bill-input-container input:focus {
+    outline: none;
+    border: hsl(172, 67%, 45%) solid 2px;
+    border-radius: 3px;
+    transform: none;    
+}
+
+
+
+

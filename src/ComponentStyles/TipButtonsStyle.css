@@ -1,0 +1,19 @@
+#tip-button {
+    background-color: hsl(183, 100%, 15%);
+    height: 30px;
+    border: none;
+    width: 25%;
+    color: #fff;
+    text-align: center;
+    font-weight: 700;
+    font-family: CustomizedFont;
+    border-radius:3px ;
+}
+
+#tip-button:focus {
+    outline: none;
+    background-color:hsl(172, 67%, 45%);
+    color: hsl(183, 100%, 15%);
+}
+
+
