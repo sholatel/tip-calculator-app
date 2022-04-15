@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tip-calculator-app/static/css/main.a8a1094b.css",
+    "main.css": "/tip-calculator-app/static/css/main.3aa66fbb.css",
     "main.js": "/tip-calculator-app/static/js/main.fd476891.js",
     "static/js/787.ec17bcfd.chunk.js": "/tip-calculator-app/static/js/787.ec17bcfd.chunk.js",
     "static/media/KumbhSansFont.ttf": "/tip-calculator-app/static/media/KumbhSansFont.de0d69a8dd1e40bb7010.ttf",
@@ -8,12 +8,12 @@
     "static/media/icon-dollar.svg": "/tip-calculator-app/static/media/icon-dollar.9f9be3534a9295a6595764d63a7bf3a3.svg",
     "static/media/icon-person.svg": "/tip-calculator-app/static/media/icon-person.65bfd20465dd1d2cb58c0b53e1160442.svg",
     "index.html": "/tip-calculator-app/index.html",
-    "main.a8a1094b.css.map": "/tip-calculator-app/static/css/main.a8a1094b.css.map",
+    "main.3aa66fbb.css.map": "/tip-calculator-app/static/css/main.3aa66fbb.css.map",
     "main.fd476891.js.map": "/tip-calculator-app/static/js/main.fd476891.js.map",
     "787.ec17bcfd.chunk.js.map": "/tip-calculator-app/static/js/787.ec17bcfd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8a1094b.css",
+    "static/css/main.3aa66fbb.css",
     "static/js/main.fd476891.js"
   ]
 }
