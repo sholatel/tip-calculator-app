@@ -30,7 +30,8 @@
   .App {
     grid-template-rows: 100px 100%; 
     place-items: center;  
-    position: relative;    
+    position: relative;   
+   
   } 
 }
 
@@ -41,8 +42,7 @@
   .App {
     place-items: center;  
     grid-template-rows: 100px 400px;
-    position: relative;
- 
+    position: relative; 
   } 
 
   .App img {
